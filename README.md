@@ -1,4 +1,7 @@
 # [**Operations Research**](https://github.com/MohammadWasiq0786/Operations-Research)
+
+![image](https://github.com/mohammadwasiq0/mohammadwasiq0/blob/main/amu_logo_resized.png)
+
 I'm very very thankful to
 
 [**Professor Dr. Aquil Ahmad**](https://www.amu.ac.in/faculty/statistics-and-operations-research/aquil-ahmed) 
